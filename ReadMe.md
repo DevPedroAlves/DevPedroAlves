@@ -1,7 +1,6 @@
 # 💫 About Me:
 Olá! Me chamo Pedro Alves! Atualmente tenho 22 anos e estou começando os estudos na área de tecnologia.<br><br>Possuo grande afinidade e paixão pela área! Busco por estágios e vagas para poder evoluir meu conhecimento.<br><br>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedroalves8785) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pedro61) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-alves-039004196/) 
 
